@@ -17,3 +17,5 @@ http://mirrors.kernel.org/ubuntu/pool/main/r/readline6/libreadline6_6.3-8ubuntu2
 
 not currently used as we utilize the Maui scheduler:
 http://mirrors.kernel.org/ubuntu/pool/universe/t/torque/torque-scheduler_2.4.16+dfsg-1.5_amd64.deb
+
+on 20250204 added libtinfo5 from https://mirrors.edge.kernel.org/ubuntu/pool/universe/n/ncurses/libtinfo5_6.3-2ubuntu0.1_amd64.deb to enable support of ubuntu 24.04
